@@ -28,8 +28,8 @@ export default defineConfig({
 	build: {
 		manifest: true,
 	},
-	base: '/VITE-FINAL/',
+	base: '/vite/',
 });
-// 
-// 
-// 
+//
+//
+//
