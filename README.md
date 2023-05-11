@@ -4,6 +4,7 @@
    npm create vite@latest
 ```
 
+
 ## Configurar Vite ( vite.config.js )
 
 Crear en la raiz del proyecto el archivo `vite.config.js`
